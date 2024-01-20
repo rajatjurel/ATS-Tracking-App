@@ -17,11 +17,10 @@ Installation
 6. chromadb
 7. faiss-cpu
 8. pdf2image
+
 License
 https://github.com/rajatjurel/ATS-Tracking-App/new/main
+
 Created By
 Rajat Jurel
 
-Screenshots
-App Screenshot
-![Alt text](image.png)
