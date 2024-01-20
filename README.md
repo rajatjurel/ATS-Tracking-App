@@ -6,6 +6,9 @@ The ATS Tracking App on Streamlit is designed to streamline and enhance the Appl
 Demo
 https://rajatjurel-ats-tracking-app-app-lmy8tp.streamlit.app/
 
+Snapshot
+![Alt text](https://github.com/rajatjurel/ATS-Tracking-App/assets/106032157/6c3e261d-e03a-42ac-ad1f-ee931e8071cb)
+
 🔗 Links
 https://github.com/rajatjurel/ATS-Tracking-App.git
 
