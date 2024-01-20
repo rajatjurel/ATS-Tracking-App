@@ -1,4 +1,5 @@
-# End To End ATS Tacking System Using Google Gemini
+# End To End ATS Tacking System Using Google Gemini AI
+
 Project Overview
 The ATS Tracking App on Streamlit is designed to streamline and enhance the Applicant Tracking System (ATS) process, offering a user-friendly interface for efficient management of job applications. The primary goal is to provide recruiters and hiring managers with a centralized platform to effortlessly track, analyze, and manage applicants throughout the hiring lifecycle.
 
